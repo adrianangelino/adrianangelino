@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante Front End.<br>👯 Estou a procura de estágio.<br>🤝 Procuro cada vez mais me aprimorar.<br>⚡ Tenho uma ótima adaptabilidade.
+🔭 Sou Desenvolvedor BAckend<br>🤝 Procuro cada vez mais me aprimorar.<br>⚡ Tenho uma ótima adaptabilidade.
 
 
 ## 🌐 Socials:
