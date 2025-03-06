@@ -20,10 +20,10 @@ Sou Adrian Angelino, um desenvolvedor full stack apaixonado por transformar idei
 ![](https://github-contributor-stats.vercel.app/api?username=AdrianAngelino&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 <!-- Poeira animada no fundo -->
 ![Dust Animation](https://media.giphy.com/media/xT0xetYXgB4rbOlyzu/giphy.gif)
 
 [![](https://visitcount.itsvg.in/api?id=AdrianAngelino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
