@@ -23,4 +23,4 @@ Sou Adrian Angelino, um desenvolvedor full stack apaixonado por transformar idei
 [![](https://visitcount.itsvg.in/api?id=AdrianAngelino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-s
+
