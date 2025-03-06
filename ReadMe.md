@@ -10,9 +10,7 @@ Sou Adrian Angelino, um desenvolvedor full stack apaixonado por transformar idei
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdrianAngelino&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-<hr />
 ![](https://nirzak-streak-stats.vercel.app/?user=AdrianAngelino&theme=dark&hide_border=false)<br/>
-<hr />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAngelino&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
@@ -22,8 +20,9 @@ Sou Adrian Angelino, um desenvolvedor full stack apaixonado por transformar idei
 ![](https://github-contributor-stats.vercel.app/api?username=AdrianAngelino&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!-- Dino Animation (Simulando o Jogo do Dinossauro) -->
-![Dino](https://media.giphy.com/media/3ohhwvB4p1FpmkFiY0/giphy.gif)
+
+<!-- Poeira animada no fundo -->
+![Dust Animation](https://media.giphy.com/media/xT0xetYXgB4rbOlyzu/giphy.gif)
 
 [![](https://visitcount.itsvg.in/api?id=AdrianAngelino&icon=0&color=0)](https://visitcount.itsvg.in)
 
